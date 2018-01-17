@@ -1,0 +1,65 @@
+Rechnungsnummer: 33R
+Rechnungsdatum: 31.1.2018
+Kundeninformationen:
+Kundennummer: 4
+Dieter
+100001
+Berlin
+Drehweg
+Informaton zum Artikel:
+Artikelnummer: 103
+Artikelbezeichnung: Cider
+Bestellmenge: 12
+endgueltiger Rechnungsbetrag: 36.0
+Rechnungsnummer: 33R
+Rechnungsdatum: 31.1.2018
+Kundeninformationen:
+Kundennummer: 4
+Dieter
+100001
+Berlin
+Drehweg
+Informaton zum Artikel:
+Artikelnummer: 103
+Artikelbezeichnung: Cider
+Bestellmenge: 12
+endgueltiger Rechnungsbetrag: 36.0
+Rechnungsnummer: 33R
+Rechnungsdatum: 31.1.2018
+Kundeninformationen:
+Kundennummer: 4
+Dieter
+100001
+Berlin
+Drehweg
+Informaton zum Artikel:
+Artikelnummer: 103
+Artikelbezeichnung: Cider
+Bestellmenge: 12
+endgueltiger Rechnungsbetrag: 36.0
+Rechnungsnummer: 33R
+Rechnungsdatum: 31.1.2018
+Kundeninformationen:
+Kundennummer: 4
+Dieter
+100001
+Berlin
+Drehweg
+Informaton zum Artikel:
+Artikelnummer: 103
+Artikelbezeichnung: Cider
+Bestellmenge: 12
+endgueltiger Rechnungsbetrag: 36.0
+Rechnungsnummer: 33R
+Rechnungsdatum: 31.1.2018
+Kundeninformationen:
+Kundennummer: 4
+Dieter
+100001
+Berlin
+Drehweg
+Informaton zum Artikel:
+Artikelnummer: 103
+Artikelbezeichnung: Cider
+Bestellmenge: 12
+endgueltiger Rechnungsbetrag: 36.0

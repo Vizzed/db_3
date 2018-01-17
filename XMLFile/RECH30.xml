@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE RECH SYSTEM "RECHNUNGEN.dtd">
+<RECH>
+<RENR>30R</RENR>
+<RDAT>2018-02-01</RDAT>
+<KNR>4</KNR>
+<KNAME>Dieter</KNAME>
+<PLZ>100001</PLZ>
+<ORT>Berlin</ORT>
+<STRASSE>Drehweg</STRASSE>
+<ARTNR>103</ARTNR>
+<ARTBEZ>Cider</ARTBEZ>
+<BMENGE>25</BMENGE>
+<ERBET>75.0</ERBET>
+</RECH>

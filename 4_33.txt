@@ -1,0 +1,8 @@
+Kundenanschrift:
+Dieter
+100001
+Berlin
+Drehweg
+Spaetestes Lieferdatum: 31.01.2018
+Bestellmenge: 12
+Gesamtpreis: 36.0

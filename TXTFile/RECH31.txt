@@ -1,0 +1,13 @@
+Rechnungsnummer: 31R
+Rechnungsdatum: 3.2.2018
+Kundeninformationen:
+Kundennummer: 4
+Dieter
+100001
+Berlin
+Drehweg
+Informaton zum Artikel:
+Artikelnummer: 103
+Artikelbezeichnung: Cider
+Bestellmenge: 31
+endgueltiger Rechnungsbetrag: 93.0
